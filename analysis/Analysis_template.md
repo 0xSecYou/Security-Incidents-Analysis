@@ -6,8 +6,6 @@ tags:
 date: 2025-03-01 10:00
 ---
 
----
-
 ## Attack Information
 
 | **Field**              | **Details**                                    |
@@ -22,20 +20,17 @@ date: 2025-03-01 10:00
 | **Attack Transaction** | [{{Tx Hash}}]                                  |
 | **Reference Links**    | [{{Link Description}}]                         |
 
----
 
 ## Project Background
 
 Briefly describe the background of the project.
 
----
 
 ## Root Cause
 
 - **Vulnerability Type**: {{Vulnerability Type (e.g., Reentrancy, Flash Loan, Integer Overflow)}}
 - **Description**: 
 
----
 
 ## Attack Analysis
 
@@ -43,22 +38,18 @@ Briefly describe the background of the project.
 
 Describe the attack principle and how the vulnerability was exploited.
 
----
 
 ### Attack Flow
 
 Describe the steps taken during the attack.
 
----
 
 ## Fix Suggestions
 
 Provide suggestions to fix the vulnerability.
 
----
 
 ### References
 
 List some online resources or analyses.
 
----
