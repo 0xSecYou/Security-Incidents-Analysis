@@ -3,28 +3,62 @@ title: attack name @vulnerability type
 categories: Attack_Events_Analysis
 tags:
   - vulnerability type
-date: 2024-04-02 10:00
+date: 2025-03-01 10:00
 ---
 
-#### 事件资讯
-- *时间:*
-- *损失:*
-- *原因：*
+---
 
-#### 链上资讯
-- *Chain:*
-- *Hacker Address:*
-- *Attack Contract:*
-- *Attack Tx：*
-- *Vulnerable Contract:*
-- *...*
+## Attack Information
 
-#### 资金流向
+| **Field**              | **Details**                                    |
+| ---------------------- | ---------------------------------------------- |
+| **Time**               | {{Attack Time}}                                |
+| **Chain**              | {{Blockchain Name}}                            |
+| **Loss**               | {{Financial Loss}}                             |
+| **Project Team**       | {{Project Name / Team}}                        |
+| **Attacker**           | {{Attacker's Name or Address}}                 |
+| **Buggy Contract**     | {{Address or Name of the Vulnerable Contract}} |
+| **Attack Contract**    | {{Attack Contract Address}}                    |
+| **Attack Transaction** | [{{Tx Hash}}]                                  |
+| **Reference Links**    | [{{Link Description}}]                         |
 
-#### 攻击流程
+---
 
-#### 攻击解析
+## Project Background
 
-#### 攻击复现
+Briefly describe the background of the project.
 
-#### 总结与建议
+---
+
+## Root Cause
+
+- **Vulnerability Type**: {{Vulnerability Type (e.g., Reentrancy, Flash Loan, Integer Overflow)}}
+- **Description**: 
+
+---
+
+## Attack Analysis
+
+### Attack Principle
+
+Describe the attack principle and how the vulnerability was exploited.
+
+---
+
+### Attack Flow
+
+Describe the steps taken during the attack.
+
+---
+
+## Fix Suggestions
+
+Provide suggestions to fix the vulnerability.
+
+---
+
+### References
+
+List some online resources or analyses.
+
+---
